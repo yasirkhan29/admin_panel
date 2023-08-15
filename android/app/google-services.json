@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236074295391",
+    "project_id": "admin-panel-134d5",
+    "storage_bucket": "admin-panel-134d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236074295391:android:011fe7061b7096d481fbea",
+        "android_client_info": {
+          "package_name": "com.example.uzir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236074295391-kkku6up9cgkmhiucbug69jsknjf5ajq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGQ-ZRC28eOOAG18d8A68EXsv4fHVIWQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236074295391-kkku6up9cgkmhiucbug69jsknjf5ajq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
